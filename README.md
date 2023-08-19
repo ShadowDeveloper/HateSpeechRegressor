@@ -1,4 +1,6 @@
 # HateSpeechRegressor
+WARNING: THE EXAMPLES PROVIDED IN THE TEST AND TRAIN FILES CONTAIN EXTREME PROFANITY AND OFFENSIVE LANGUAGE.
+
 A simple MLP regressor trained with sklearn.
 
 Uses UCBerkley's [hate speech dataset](https://huggingface.co/datasets/ucberkeley-dlab/measuring-hate-speech)
