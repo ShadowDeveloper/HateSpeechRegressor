@@ -7,4 +7,4 @@ Uses UCBerkley's [hate speech dataset](https://huggingface.co/datasets/ucberkele
 
 If you want to use the model, run `pip install -r requirements.txt`. Then, run `train.py`. It will take 4-8 hours. Remember to credit me and UCBerkeley as per the license terms.
 
-I would add a pretrained model, but GitHub only supports files up to 25 MB. Visit the [HuggingFace](https://huggingface.co/ShadowProgrammer/HateSpeechRegressor) to download the pretrained model and vectorizer.
+Visit the [HuggingFace](https://huggingface.co/ShadowProgrammer/HateSpeechRegressor) to download the pretrained model and vectorizer.
